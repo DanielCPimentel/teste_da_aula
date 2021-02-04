@@ -8,6 +8,4 @@ install.packages("dplyr")
 library(dplyr)
 dplyr::glimpse()
 
-# outra alteração
-
 
